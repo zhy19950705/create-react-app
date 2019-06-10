@@ -10,4 +10,4 @@ const Filters = () => {
         </p>
     )
 }
-export default Filters
+export default Filters;
